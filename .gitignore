@@ -1,0 +1,9 @@
+# Ignored files for Git
+__pycache__/
+*.pyc
+.env
+
+venv/
+db.sqlite3
+Gestion_Interventions.docx
+config.py
